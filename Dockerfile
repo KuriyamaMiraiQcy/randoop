@@ -1,1 +1,1 @@
-From metaxk-mes-server
+From bitnami/nginx:latest
